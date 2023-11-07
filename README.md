@@ -1,4 +1,4 @@
-# [스프링 DB1편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1/dashboard)
+# [스프링 DB1편](http://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1)
 # 커넥션풀과 데이터소스 이해
 ## 커넥션 풀 이해
 
